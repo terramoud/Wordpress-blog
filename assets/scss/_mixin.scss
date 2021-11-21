@@ -1,0 +1,27 @@
+@mixin layers {
+  box-shadow: 0 0 0.9rem $shadow;
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+  background-color: $background-color-day;
+}
+
+@mixin layer-with-shadow {
+  box-shadow: 0 0 0.9rem $shadow;
+  border-radius: 1rem;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+@mixin sign-in {
+  color: $logo-title-day;
+  cursor: pointer;
+  height: 2rem;
+  font-size: 1.5rem;
+  border-radius: 1rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem; 
+}
+@mixin layer-article {
+  border-radius: 0.2rem;  
+}
+
