@@ -1,1 +1,1 @@
-Ссылка на блог http://b9808235.beget.tech/
+Link ot the blog http://b9808235.beget.tech/
