@@ -1,1 +1,1 @@
-Link ot the demo blog http://b9808235.beget.tech/
+Link to the demo blog http://b9808235.beget.tech/
